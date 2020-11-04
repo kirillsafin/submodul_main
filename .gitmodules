@@ -1,0 +1,8 @@
+[submodule "subrepo_one"]
+	path = subrepo_one
+	url = https://github.com/kirillsafin/subrepo_one.git
+	ignore = dirty
+[submodule "subrepo_two"]
+	path = subrepo_two
+	url = https://github.com/kirillsafin/subrepo_two.git
+	ignore = dirty
